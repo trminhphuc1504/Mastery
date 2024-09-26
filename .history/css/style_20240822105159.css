@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+header .header-logo{
+    background-color:pink;
+    padding: 20px;
+}
+
+.logo{
+    font-size:36px;
+    text-decoration: none;
+    /* text-align: center; */
+}
+
+.logo i {
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.7);
+    font-size: 20px;
+    vertical-align: bottom;
+    color: red;
+    display: inline-block;
+}
+
+#span{
+    text-transform: uppercase;
+}

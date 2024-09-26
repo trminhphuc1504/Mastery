@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  div {
+    background-color: pink;
+    padding: 20px;
+  }
+  .test {
+    font-size: 36px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  .test i {
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 50%;
+    background-color: rgba(0, 0, 0, 0.7);
+    font-size: 20px;
+    vertical-align: bottom;
+    color: red;
+    display: inline-block;
+  }
+  
